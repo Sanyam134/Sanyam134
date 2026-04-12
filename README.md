@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sanyam Dwivedi. 👋
+DevOps / Cloud Engineer with 3 years building scalable infrastructure on AWS.
+Currently open to Senior DevOps / SRE / Cloud Engineer roles.
 
-<!--
-**Sanyam134/Sanyam134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+[Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform)
+[Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+[Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+[Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+[Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on writing the infrastructure of an already provisioned Infrastructure.
+- 🌱 I’m currently learning Monitoring, Onservability, Cloud and DevOps on a regular basis.
+- 👯 I’m looking to collaborate on Cloud migration, observability metrics and Scalibility.
+- 🤔 I’m looking for help with understanding logging and monitoring.
+- 💬 Ask me about DevOps Tools and configuration Management
+- 📫 How to reach me: dwivedisanyam318@gmail.com
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: Cloud tech nowadays seems to be the cloud of monsoon, very hard to be contolled but not impossible to secure.
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanyam134&show_icons=true&theme=default&hide_border=true)
+
