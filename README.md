@@ -7,8 +7,9 @@ Currently open to Senior DevOps / SRE / Cloud Engineer roles.
 [Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 [Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 [Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-[Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName)
-
+[Linux](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FLinux)
+[ELK](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FELK)
+[Python](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fpython)
 
 
 - 🔭 I’m currently working on writing the infrastructure of an already provisioned Infrastructure.
@@ -21,4 +22,8 @@ Currently open to Senior DevOps / SRE / Cloud Engineer roles.
 - ⚡ Fun fact: Cloud tech nowadays seems to be the cloud of monsoon, very hard to be contolled but not impossible to secure.
 
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanyam134&show_icons=true&theme=default&hide_border=true)
+
+## Featured projects
+
+**[Cricket-stats-live](https://github.com/Sanyam134/Cricketstatviz)** — Production-grade score and cricket statistics providing software using AWS VPC, EC2, RDS, and S3  with a Jenkins CI/CD pipeline. Includes cost estimate less than (~$1/mo).
 
