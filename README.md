@@ -27,3 +27,6 @@ Currently open to Senior DevOps / SRE / Cloud Engineer roles.
 
 **[Cricket-stats-live](https://github.com/Sanyam134/Cricketstatviz)** — Production-grade score and cricket statistics providing software using AWS VPC, EC2, RDS, and S3  with a Jenkins CI/CD pipeline. Includes cost estimate less than (~$1/mo).
 
+**[melodai](https://github.com/Sanyam134/melodai)** - A production grade AI music creation app in which music, lyrics and other sound and music and commercial music can be created and generated within minutes of use of it. Includes a very negligible cost at each music creation (~$.5-.8/song or jingle).
+
+**[[manta--player](https://github.com/Sanyam134/mantra--player)** - A mantra chanting with proper and correct pronounciation and lyrics and taking these mantras from Valid sources. Tech stack used is Python, Nginx, Docker, Kubernetes, Terraform etc.
